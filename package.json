@@ -1,0 +1,32 @@
+{
+  "name": "moderntech-website",
+  "version": "1.0.0",
+  "description": "Modern responsive website built with Bootstrap 5, featuring clean design and smooth animations",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "python3 -m http.server 8000",
+    "dev": "live-server --port=8000",
+    "build": "echo 'Static site - no build process needed'",
+    "deploy": "echo 'Deploy to GitHub Pages or Netlify'"
+  },
+  "keywords": [
+    "bootstrap",
+    "responsive",
+    "website",
+    "html5",
+    "css3",
+    "javascript",
+    "modern",
+    "clean"
+  ],
+  "author": "ModernTech",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/moderntech-website.git"
+  },
+  "homepage": "https://yourusername.github.io/moderntech-website",
+  "devDependencies": {},
+  "dependencies": {}
+}
